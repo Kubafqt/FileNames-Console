@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kubafe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kubafe\\.nuget\\packages"
+    ]
+  }
+}
